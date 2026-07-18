@@ -39,11 +39,21 @@ The initial version does not include built-in video editing or audio editing too
 
 The software focuses on the workflow surrounding editing and audio post-production: preparation, organization, documentation, tracking, approvals, and final deliverables. Media can continue to be edited in the external applications best suited to each project.
 
+## MCP server layer
+
+The platform will include an MCP server layer, creating a structured foundation for connecting filmmaking workflows, project data, and future tools. AI tools are not included yet, but future versions may introduce AI-assisted capabilities where they genuinely help filmmakers.
+
+Future versions are also planned to support a growing ecosystem of connectors and plugins, allowing the platform to work with the services and tools production teams already rely on.
+
 ## Our vision
 
 Filmmaking is a collaborative journey with many moving parts. This project aims to bring those parts together in a practical, filmmaker-first environment—from the first spark of an idea to the final exported deliverable.
 
 Let’s revolutionize the filmmaking workflow.
+
+## Support the project
+
+If you believe in a better filmmaking workflow, you can support the project through donations. Donation options will be added as the project develops.
 
 ## Status
 
